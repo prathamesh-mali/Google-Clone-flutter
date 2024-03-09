@@ -4,6 +4,8 @@ A Google clone application built with Google search API and responsive layout.
 
 # Screenshots:
 
+<img src="Screenshot/home.png" alt="ScreenShot1" >  <img src="Screenshot/desktopsearch.png" alt="ScreenShot1" >  <img src="Screenshot/responsive.png" alt="ScreenShot1" width="400" height='450' >  <img src="Screenshot/mobile.png" alt="ScreenShot1" width="200" height="400"> 
+
 
 ## Getting Started
 
