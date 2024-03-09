@@ -1,6 +1,9 @@
 # google_clone
 
-A new Flutter project.
+A Google clone application built with Google search API and responsive layout. 
+
+# Screenshots:
+
 
 ## Getting Started
 
